@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	width: 495px;
+	height: 1000px;
+	/*background-image: url(../img/nosotros.jpg);*/
+	background-repeat: no-repeat;
+}
+
+#cuerpo{
+	
+	margin-left: 15px;
+	width: 495px;
+	height: 1000px;
+	}
+
+
+	
+	
+	
